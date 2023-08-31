@@ -1,0 +1,6 @@
+/.github
+/.pytest_cache
+/__pycache__
+/init.ipy
+/ipy.sh
+/requirements.txt
